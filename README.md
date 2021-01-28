@@ -1,7 +1,7 @@
 # Digital Wallet Implementation Guide
 DHS Digital Wallet Challenge
 
-##Video Walkthrough
+## Video Walkthrough
 https://youtu.be/p-JK2ZJ42tQ
 
 ## Product Overview
