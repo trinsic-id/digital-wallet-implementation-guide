@@ -64,7 +64,7 @@ Feel free to email me (josh@trinsic.id) if you have any questions about this pro
 
 ## Information Architecture / User Flows
 
-[DHS Wallet Implementation-2.pdf](DHS%20Implementation%20Guide%203d999b5ab88a4fa18e369687b169dbd1/DHS_Wallet_Implementation-2.pdf)
+[DHS Wallet Implementation-2.pdf](asset/InformationArchitectureAndFlows.pdf)
 
 To view the core Figma designs and see how all of the screens in our proposal are mapped out, create a Figma account and visit: [https://www.figma.com/file/EIf1p8MNGkJDDb0YStT680/DHS-Digital-Wallet-Submission?node-id=169%3A3075](https://www.figma.com/file/EIf1p8MNGkJDDb0YStT680/DHS-Digital-Wallet-Submission?node-id=169%3A3075) 
 
@@ -261,8 +261,8 @@ const trinsicblack = "#20262D";
 
 ## Component Examples
 
-![DHS%20Implementation%20Guide%203d999b5ab88a4fa18e369687b169dbd1/Cards.png](DHS%20Implementation%20Guide%203d999b5ab88a4fa18e369687b169dbd1/Cards.png)
+![asset/Cards.png](asset/Cards.png)
 
-![DHS%20Implementation%20Guide%203d999b5ab88a4fa18e369687b169dbd1/Lists.png](DHS%20Implementation%20Guide%203d999b5ab88a4fa18e369687b169dbd1/Lists.png)
+![asset/Lists.png](asset/Lists.png)
 
-![DHS%20Implementation%20Guide%203d999b5ab88a4fa18e369687b169dbd1/Success_Banners.png](DHS%20Implementation%20Guide%203d999b5ab88a4fa18e369687b169dbd1/Success_Banners.png)
+![asset/Success_Banners.png](asset/Success_Banners.png)
