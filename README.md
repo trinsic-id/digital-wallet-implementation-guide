@@ -1,4 +1,5 @@
-# DHS Implementation Guide
+# Digital Wallet Implementation Guide
+DHS Digital Wallet Challenge
 
 ## Product Overview
 
