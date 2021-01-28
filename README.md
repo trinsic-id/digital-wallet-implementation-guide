@@ -64,7 +64,7 @@ Feel free to email me (josh@trinsic.id) if you have any questions about this pro
 
 ## Information Architecture / User Flows
 
-[DHS Wallet Implementation-2.pdf](asset/InformationArchitectureAndFlows.pdf)
+[DHS Wallet Implementation-2.pdf](assets/InformationArchitectureAndFlows.pdf)
 
 To view the core Figma designs and see how all of the screens in our proposal are mapped out, create a Figma account and visit: [https://www.figma.com/file/EIf1p8MNGkJDDb0YStT680/DHS-Digital-Wallet-Submission?node-id=169%3A3075](https://www.figma.com/file/EIf1p8MNGkJDDb0YStT680/DHS-Digital-Wallet-Submission?node-id=169%3A3075) 
 
@@ -261,8 +261,8 @@ const trinsicblack = "#20262D";
 
 ## Component Examples
 
-![asset/Cards.png](asset/Cards.png)
+![assets/Cards.png](assets/Cards.png)
 
-![asset/Lists.png](asset/Lists.png)
+![assets/Lists.png](assets/Lists.png)
 
-![asset/Success_Banners.png](asset/Success_Banners.png)
+![assets/Success_Banners.png](assets/Success_Banners.png)
